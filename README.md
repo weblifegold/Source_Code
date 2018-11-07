@@ -12,8 +12,8 @@ Twitter: https://twitter.com/weblife7
 Discord: https://discord.gg/rnXvmV7  
 bitcointalk:  
 Facebook: https://www.facebook.com/weblifeoficial/  
-LinkedIN:  
-Reddit:  
+LinkedIN: https://www.linkedin.com/in/weblife-gold-7639ba174/  
+Reddit: https://www.reddit.com/user/WebLifeGold  
 Instagram: https://www.instagram.com/weblifegold/  
 YouTube: https://www.youtube.com/channel/UCIsuxsWAIJce_CrgbcoVRlw  
 Gmail: weblifepublicidad@gmail.com
