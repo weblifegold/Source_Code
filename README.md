@@ -4,10 +4,10 @@ Diminutivo: WLG.
 Decimales: 2.  
 direccion contrato: 0x3a24e13f4176D12208631Ccb9236C345924c145B  
 cantidad inicial: 6,000,000.00  
-Inicio ICO: 10 de noviembre de 2018   
+Inicio ICO: 25 de noviembre de 2018   
 Fin ICO: Al completarse 21,000,000.00 de monedas en el mercado.  
 Etherscan: https://etherscan.io/token/0x3a24e13f4176d12208631ccb9236c345924c145b  
-Website: http://weblifegold.org/   
+Website: https://weblifegold.org/   
 Twitter: https://twitter.com/weblife7  
 Discord: https://discord.gg/rnXvmV7  
 bitcointalk:  
