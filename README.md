@@ -10,7 +10,7 @@ Etherscan: https://etherscan.io/token/0x3a24e13f4176d12208631ccb9236c345924c145b
 Website: https://weblifegold.org/   
 Twitter: https://twitter.com/weblife7  
 Discord: https://discord.gg/rnXvmV7  
-bitcointalk:  
+bitcointalk:https://bitcointalk.org/index.php?topic=5072982.msg48091687#msg48091687   
 Facebook: https://www.facebook.com/weblifeoficial/  
 LinkedIN: https://www.linkedin.com/company/weblifegold/  
 Reddit: https://www.reddit.com/user/WebLifeGold  
