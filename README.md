@@ -16,6 +16,6 @@ Linkedin: https://www.linkedin.com/company/weblifegold/
 Reddit: https://www.reddit.com/user/WebLifeGold  
 Instagram: https://www.instagram.com/weblifegold/  
 YouTube: https://www.youtube.com/channel/UCIsuxsWAIJce_CrgbcoVRlw  
-Gmail: weblifepublicidad@gmail.com
+Gmail: contact@weblifegold.org
 
 
