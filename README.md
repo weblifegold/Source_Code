@@ -12,7 +12,7 @@ Twitter: https://twitter.com/weblife7
 Discord: https://discord.gg/rnXvmV7  
 bitcointalk:https://bitcointalk.org/index.php?topic=5072982.msg48091687#msg48091687   
 Facebook: https://www.facebook.com/weblifeoficial/  
-LinkedIN: https://www.linkedin.com/company/weblifegold/  
+Linkedin: https://www.linkedin.com/company/weblifegold/  
 Reddit: https://www.reddit.com/user/WebLifeGold  
 Instagram: https://www.instagram.com/weblifegold/  
 YouTube: https://www.youtube.com/channel/UCIsuxsWAIJce_CrgbcoVRlw  
